@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028611566750-o0ai37i36ug3a43ohshe1udjfl6f6vml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028611566750-o0ai37i36ug3a43ohshe1udjfl6f6vml</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1028611566750-1a4onj9ljjl3ilk6nbjtshli9rsodflk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLSSu_bClJU-HbFdHik9M5HmJtSzK35us</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028611566750</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.tutorme</string>
+	<key>PROJECT_ID</key>
+	<string>tutorme-ef9d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tutorme-ef9d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028611566750:ios:05cb4c44e7640e0b815f8f</string>
+	<key>DATABASE_URL</key>
+	<string>https://tutorme-ef9d8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

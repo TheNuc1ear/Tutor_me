@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1028611566750",
+    "firebase_url": "https://tutorme-ef9d8-default-rtdb.firebaseio.com",
     "project_id": "tutorme-ef9d8",
     "storage_bucket": "tutorme-ef9d8.appspot.com"
   },
@@ -10,6 +11,50 @@
         "mobilesdk_app_id": "1:1028611566750:android:05cb903bd4e7c5b1815f8f",
         "android_client_info": {
           "package_name": "com.example.tutor_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028611566750-1a4onj9ljjl3ilk6nbjtshli9rsodflk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutor_me",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1028611566750-9a5khm96ohfokuvmcn636vsd2jn7f7rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFkRqA-Tt_gGISxB_JjTORuSYaP6YzQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028611566750-9a5khm96ohfokuvmcn636vsd2jn7f7rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028611566750-o0ai37i36ug3a43ohshe1udjfl6f6vml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.tutorme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028611566750:android:85976c149dcf8b48815f8f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.tutorme"
         }
       },
       "oauth_client": [
@@ -29,6 +74,13 @@
             {
               "client_id": "1028611566750-9a5khm96ohfokuvmcn636vsd2jn7f7rp.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1028611566750-o0ai37i36ug3a43ohshe1udjfl6f6vml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.tutorme"
+              }
             }
           ]
         }
